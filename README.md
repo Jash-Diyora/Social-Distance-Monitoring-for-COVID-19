@@ -59,4 +59,4 @@ We have the x, y and z (distance of the person from camera) coordinates for ever
 
 [Find distance from camera to object/marker using Python and OpenCV](https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/)
 
-https://github.com/Subikshaa/Social-Distance-Detection-using-OpenCV(Fixed few Numpy errors)
+https://github.com/Subikshaa/Social-Distance-Detection-using-OpenCV (Fixed few Numpy errors)
