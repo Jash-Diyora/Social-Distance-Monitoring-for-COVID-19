@@ -20,6 +20,7 @@ arg.add_argument('-c', '--confidence', type = float, default = 0.2, help='Set co
 
 args = vars(arg.parse_args())
 
+#or comment above lines and add direct file locations to access files.
 
 labels = [line.strip() for line in open(args['labels'])]
 
