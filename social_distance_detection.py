@@ -120,9 +120,9 @@ while cap.isOpened():
 
     for i in pos_dict.keys():
         if i in close_objects:
-            COLOR = np.array(0,0,255)
+            COLOR = np.array[0,0,255]
         else:
-            COLOR = np.array(0,255,0)
+            COLOR = np.array[0,255,0]
         (startX, startY, endX, endY) = coordinates[i]
 
         cv2.rectangle(frame, (startX, startY), (endX, endY), COLOR, 2)
